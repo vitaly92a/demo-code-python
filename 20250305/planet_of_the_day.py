@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from random import *
 
@@ -11,3 +11,10 @@ chosen_planet_name = solar_system_planets[chosen_planet_id]
 planet_of_the_day = ''.join(map(str, chosen_planet_name))                                                   # how to make list item output without brackets
 
 print("Planet of the day: ", planet_of_the_day)                                                             # final output
+
+"""
+This code was written independently without using ChatGPT or another AI tool!
+Purpose of writing code: self-practice and personal usage.
+Author: Vitaly A.
+Contact: https://vitaly92a.github.io
+"""

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from os import mkdir
 
 # Let's initiate the years interval: 
@@ -49,4 +49,9 @@ for years in range(year_start, (year_end+1)):
                 f.write("# Note is empty...")
                 f.close()
 
-# Author: https://vitaly92a.github.io
+"""
+This code was written independently without using ChatGPT or another AI tool!
+Purpose of writing code: self-practice and personal usage.
+Author: Vitaly A.
+Contact: https://vitaly92a.github.io
+"""
