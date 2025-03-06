@@ -13,7 +13,7 @@ planet_of_the_day = ''.join(map(str, chosen_planet_name))                       
 print("Planet of the day: ", planet_of_the_day)                                                             # final output
 
 """
-This code was written independently without using ChatGPT or another AI tool!
+This code has been written independently: without using ChatGPT or any other AI-tool!
 Purpose of writing code: self-practice and personal usage.
 Author: Vitaly A.
 Contact: https://vitaly92a.github.io

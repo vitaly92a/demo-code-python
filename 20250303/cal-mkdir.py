@@ -50,7 +50,7 @@ for years in range(year_start, (year_end+1)):
                 f.close()
 
 """
-This code was written independently without using ChatGPT or another AI tool!
+This code has been written independently: without using ChatGPT or any other AI-tool!
 Purpose of writing code: self-practice and personal usage.
 Author: Vitaly A.
 Contact: https://vitaly92a.github.io

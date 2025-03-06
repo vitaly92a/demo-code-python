@@ -35,7 +35,7 @@ income_w_tax = income_wo_tax - tax
 print("Налог:", str(tax_type) + "%", "сумма налога:", str(tax), "\nОставшаяся сумма:", str(income_w_tax))
 
 """
-This code was written independently without using ChatGPT or another AI tool!
+This code has been written independently: without using ChatGPT or any other AI-tool!
 Purpose of writing code: self-practice and personal usage.
 Author: Vitaly A.
 Contact: https://vitaly92a.github.io
